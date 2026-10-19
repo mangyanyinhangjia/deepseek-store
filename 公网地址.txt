@@ -1,0 +1,4 @@
+网站公网地址：https://deepseek-store-course.mangyanyinxingjia.chatgpt.site
+
+公开访问：持有链接的人可访问，无需运行本地服务器。
+网站为前端课程演示。购物车与收藏保存在访客各自浏览器内；注册、联系表单只验证输入，不创建真实账号、不发送邮件。
